@@ -1,6 +1,6 @@
 # Google Cybersecurity Certificate - Write-ups and Portfolio
 
-Welcome to my cybersecurity repsoitory ! This space is dedicated to documenting my technical journey, lab notes reports as I progress through the google Cybersecurity Professional Certificate.
+Welcome to my cybersecurity reposoitory ! This space is dedicated to documenting my technical journey, lab notes reports as I progress through the google Cybersecurity Professional Certificate.
 
 ---
 ## Program courses and progress
