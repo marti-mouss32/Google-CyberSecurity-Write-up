@@ -1,4 +1,4 @@
-# Course 1; Foundations of Cybersecurity
+# Course 1: Foundations of Cybersecurity
 *Google Cybersecurity Professional Certificate*
 
 ---
