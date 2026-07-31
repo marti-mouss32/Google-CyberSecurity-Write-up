@@ -7,7 +7,7 @@ By completing this course, I was able to :
 
 ---
 
-[Back to Course Overview](01.overview.md)
+[Back to Course Overview](01-overview.md)
 
 [Back to Table of Contents](README.md)
 
