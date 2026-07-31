@@ -1,5 +1,5 @@
 # Google Cybersecurity Certificate - Write-ups and Portfolio
-![Status](https://img.shields.io/badge/Status-In-Progress-brightgreen)
+![Status](https://img.shields.io/badge/Status-InProgress-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Coursera-blue)
 ![Provider](https://img.shields.io/badge/Provider-Google-red)
 ![Language](https://img.shields.io/badge/Language-English-green)
