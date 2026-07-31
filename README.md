@@ -1,6 +1,13 @@
 # Google Cybersecurity Certificate - Write-ups and Portfolio
+![Status](https://img.shields.io/badge/Status-In%Progress-blue)
+![Platform](https://img.shields.io/badge/Platform-Coursera-blue)
+![Provider](https://img.shields.io/badge/Provider-Google-red)
+![Language](https://img.shields.io/badge/Language-English-green)
 
-Welcome to my cybersecurity repository ! This space is dedicated to documenting my technical journey, lab notes reports as I progress through the google Cybersecurity Professional Certificate.
+## About
+
+Welcome to my cybersecurity repository ! This space is dedicated to documenting my journey through the Google cybersecurity professional certificate.
+Each course contains structured notes, reflections, key concepts and skills developped throughout the program. My goal is to build a professional cybersecurity portfolio while preparing for an entry-level security analyst role.
 
 ---
 ## Program courses and progress
