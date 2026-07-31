@@ -6,8 +6,7 @@
 
 ## About
 
-Welcome to my cybersecurity repository ! This space is dedicated to documenting my journey through the Google cybersecurity professional certificate.
-Each course contains structured notes, reflections, key concepts and skills developped throughout the program. My goal is to build a professional cybersecurity portfolio while preparing for an entry-level security analyst role.
+Welcome to my cybersecurity repository ! This space is dedicated to documenting my journey through the Google cybersecurity professional certificate. Each course contains structured notes, reflections, key concepts and skills developped throughout the program. My goal is to build a professional cybersecurity portfolio while preparing for an entry-level security analyst role.
 
 ---
 ## Program courses and progress
@@ -16,7 +15,7 @@ Each course contains structured notes, reflections, key concepts and skills deve
   *Status: completed*
 - Introduction to core security concepts and historical context.
 - In-depht study of the CIA Triad and organizational security posture.
--  **[View course 1 write-ups](./01-Cybersecurity-Foundations/README)**
+
 
 ### 2. Play it safe: Manage security and risks
   *Status: In progess*
@@ -24,4 +23,12 @@ Each course contains structured notes, reflections, key concepts and skills deve
 
 ---
 *Connect with me as I build my fundation in hands-on security engineering !*
+
+---
+###### Author
+**Moussa Petit-Jean Ariel Martinez**
+
+Google Cybersecurity Professional Certificate Portfolio
+
+Last Updated: July 2026
   
