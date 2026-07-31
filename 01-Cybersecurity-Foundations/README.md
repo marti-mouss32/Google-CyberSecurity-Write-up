@@ -5,7 +5,7 @@
 
 ## Table of contents
 
-1.  **[Overview](./01-overview.md)**
+1.  **[Overview](01-overview.md)**
 2.  **[Learning objectives](./02-learning-objectives.md)**
 3.  **[Key concepts learned](./03-key-concepts.md)**
 4.  **[Skills Developed](./04-skills-developed.md)**
